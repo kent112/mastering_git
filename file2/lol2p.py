@@ -1,2 +1,2 @@
 print("lollll")
-print("fuc u")
+print("You are a good man")
